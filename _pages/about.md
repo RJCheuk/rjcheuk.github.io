@@ -15,7 +15,7 @@ I am currently seeking research opportunities of HCI,  if you need a research as
 
 You can find my CV here:
 
-[Email](mailto:zhuoj5@uci.edu)[LinkedIn](www.linkedin.com/in/jiacheng-zhuo-8b6502285)[Github](https://github.com/RJCheuk)
+[Email](mailto:zhuoj5@uci.edu) [LinkedIn](www.linkedin.com/in/jiacheng-zhuo-8b6502285) [Github](https://github.com/RJCheuk)
 
 A data-driven personal website
 ======
