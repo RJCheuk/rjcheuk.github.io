@@ -5,9 +5,13 @@ collection: portfolio
 permalink: /portfolio/residency-rag
 toc: true
 ---
-## Overview
+## Overview (Last Update: 11/25/2025)
 Residency-RAG is an AI-powered assistant designed to support **internal medicine residents** by enabling fast, structured clinical knowledge retrieval.  
 It reduces cognitive load and helps trainees access workflow-relevant information during real-world practice.
+
+Group Members: Jiacheng (Richard) Zhuo​, Thuy (Sally) Nguyen@UCI, Yawen Guo@UCI
+
+Sponsors: Monil Patel@UCI Health, Roderick Eguilos@UCI Health, Daniel Yang@UCI Health
 
 ## My Role  
 **Full-Stack Engineer & UX Study Designer (Oct 2025 – Present)**
@@ -28,9 +32,12 @@ It reduces cognitive load and helps trainees access workflow-relevant informatio
 - **Analytics:** clustering, trajectory visualization, user diagnostic metrics  
 - **Modeling:** prompt templates aligned with ACGME competencies  
 
-## Research Outcomes
-- Prototype under internal evaluation  
+## Research Outcomes(Future)
 - Usability study planned with UCI Health residents  
 - Initial clinician feedback collected  
+
+## GitHub Repository
+[🔗 GitHub Repository: AI Chatbot residency-rag (Private)](https://github.com/thuyng11/residency-rag){:target="_blank"}  
+Access available upon request.
 
 
